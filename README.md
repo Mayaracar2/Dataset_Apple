@@ -26,10 +26,10 @@ Os dados foram obtidos no Kaggle:
 - [x] Visualização da evolução histórica das ações
 - [x] Decomposição da série temporal
 - [x] Implementação do modelo Holt-Winters
-- [ ] Implementação do modelo SARIMA
-- [ ] Implementação do modelo Prophet
-- [ ] Comparação dos modelos utilizando MAE, RMSE e MAPE
-- [ ] Análise dos resultados e conclusões
+- [X] Implementação do modelo SARIMA
+- [X] Implementação do modelo Prophet
+- [X] Comparação dos modelos utilizando MAE, RMSE e MAPE
+- [X] Análise dos resultados e conclusões
 
 ## 📁 Arquivo principal
 
